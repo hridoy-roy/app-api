@@ -10,3 +10,6 @@
 - Run: npm run dev
 - Run: php artisan serve
 - Browse This Url: http://127.0.0.1:8000
+
+-- laravel: 10 
+-- php: 8.1
