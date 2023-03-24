@@ -1,9 +1,10 @@
 # How to run this project
 
-- [Clone this Project](https://github.com/hridoy-roy/app-api/)]
-- Create .env file from .evb.example file
+- [Clone this Project](https://github.com/hridoy-roy/app-api/)
+- Create .env file from .env.example file
 - Create Database
-- Run: composer update
+- Fill the DB related information inside .env and run
+- Run: composer install
 - Run: php artisan key:generate
 - Run: php artisan migrate:fresh --seed
 - Run: npm install
